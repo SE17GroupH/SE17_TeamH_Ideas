@@ -10,3 +10,5 @@
 - repo of dangerous areas, incidents, thefts - crowdsourced?
 - File organizers /Download manager
 - Backup management
+- Attendance System
+- Renting Application
