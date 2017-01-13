@@ -36,3 +36,9 @@
 - Aggregate (stack-overflow/web code snippets) for efficient search and retrieval later
 - Digitizing Notes
 - Detecting nutrition information
+
+
+## Evaluation criteria
+- Literature
+- User Survey/Common Problem 
+- 3 ways to Implement
