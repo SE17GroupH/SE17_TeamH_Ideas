@@ -3,5 +3,5 @@ Team repository for CSC510-Software Engineering in Spring 2017 of NCSU, taught b
 
 ##Members:
 - Siddharth Sharma
-- Harold Chen
+- Yujia (Harold) Chen
 - Kaustubh G.
