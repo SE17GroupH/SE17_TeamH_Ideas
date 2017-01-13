@@ -1,17 +1,31 @@
 #Ideas so far
 - Managing Passwords
+    - user defined password
+    - password generated from url and username
+    - easy to remember passphrases
+    - short password internally mapped to longer complex one
 - Price aggregator
 - Health management
-- Transit croudsourcing
+- Transit crowdsourcing
 - Ridesharing / Waze crowdsourcing
 - Grocery delivery crowdsourcing
+    - if people around you can get stuff for you(if they are going to the same location) and you can pay a minimal amount?
 - News aggregator / feed based on location
 - Meeting new people in gym/sports/activity based on location
 - Repo of dangerous areas, incidents, thefts - crowdsourced?
 - File organizers /Download manager
+    - categorize into music/videos/docs
+    - provide more utility features?
 - Backup management
+    - automatic backup?
+    - manual
+    - other techniques
 - Attendance system
+    - how to detect how many people are in a room or class 
+    - rfid
+    - connected to the wifi access point
 - Renting application
+    - rent stuff from people near you
 - Payment notifier / management
 - Expense management
 - Music recommendation (or recommendation of any kind) Solutions could be - 
