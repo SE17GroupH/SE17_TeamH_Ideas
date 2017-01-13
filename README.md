@@ -1,2 +1,7 @@
-# se17-teamG
+# se17-teamH
 Team repository for CSC510-Software Engineering in Spring 2017 of NCSU, taught by Professor Tim Menzies.
+
+##Members:
+- Siddharth Sharma
+- Harold Chen
+- Kaustubh G.
