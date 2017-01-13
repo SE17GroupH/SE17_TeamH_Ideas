@@ -14,3 +14,8 @@
 - Renting application
 - Payment notifier / management
 - Expense management
+- Music recommendation (or recommendation of any kind) Solutions could be - 
+    - Top charts/Critics
+    - Personalized based on history
+    - based on Friends
+- Breaking filter bubble - meeting people with very opposite/different background/views to you
