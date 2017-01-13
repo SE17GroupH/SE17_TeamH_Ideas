@@ -7,8 +7,10 @@
 - Grocery delivery crowdsourcing
 - News aggregator / feed based on location
 - Meeting new people in gym/sports/activity based on location
-- repo of dangerous areas, incidents, thefts - crowdsourced?
+- Repo of dangerous areas, incidents, thefts - crowdsourced?
 - File organizers /Download manager
 - Backup management
-- Attendance System
-- Renting Application
+- Attendance system
+- Renting application
+- Payment notifier / management
+- Expense management
