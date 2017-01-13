@@ -34,3 +34,5 @@
     - based on Friends
 - Breaking filter bubble - meeting people with very opposite/different background/views to you
 - Aggregate (stack-overflow/web code snippets) for efficient search and retrieval later
+- Digitizing Notes
+- Detecting nutrition information
