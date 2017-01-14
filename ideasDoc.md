@@ -12,10 +12,10 @@ Literatures from Google Scholar:
 
 - Meeting new people in gym/sports/activity based on location
 Literature from Google Scholar:
-  1. 
+  Couldn't find 3+ ways to conduct the solution, as there aren't woo many paper regarding this issue. Need input
   
 - Repo of dangerous areas, incidents, thefts - crowdsourced?
-  Possible resemblance to what's been found on News aggregator
+Possible resemblance to what's been found on News aggregator
   
   
 - File organizers /Download manager
