@@ -37,3 +37,22 @@ There're several backup method we can impliment, such as incremental backup wher
     - how to detect how many people are in a room or class 
     - rfid
     - connected to the wifi access point
+
+- Renting Application/Sale Application: (Facebook/Craigslist do a pretty good enough job i think...)
+
+- Indian store visits:   
+	- people with cars can advertise when they are going to indian store and how many more can they accomodate.
+	- a person rents a car and advertises 'there is room for x people'
+	- a one-time visit to indian store costs about $40 by Uber (to and fro). This cost could be saved.
+	- Crowd-pool 'indian store visit' to reduce costs. ( people from 4 different apartments book a single uber, so effectively the cost is reduced by 4 times).  
+		  
+	Ways to execute the solution:
+	-consumer-subscriber model
+	-normal crowd-sourcing (common uber)
+
+- Personal journal, diary input methods:
+	-write by hand and take a pic
+	-actually tell about stuff
+	-type it in
+
+	
