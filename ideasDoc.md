@@ -67,9 +67,9 @@ There're several backup method we can impliment, such as incremental backup wher
 
 
 - Attendance system
-    - how to detect how many people are in a room or class 
-    - rfid
-    - connected to the wifi access point
+    - Bluetooth based:  http://s3.amazonaws.com/academia.edu.documents/34196961/bluetooth_based_attendance.pdf?AWSAccessKeyId=AKIAJ56TQJRTWSMTNPEA&Expires=1484445575&Signature=0t9kjk6iYslNLep6U5ZwwA1%2Fhw0%3D&response-content-disposition=inline%3B%20filename%3DBluetooth_Based_Attendance_Management_Sy.pdf 
+    - Several based on RFID: http://ieeexplore.ieee.org/document/4603906/
+    - Using QR Code: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.683.6728&rep=rep1&type=pdf
 
 - Renting Application/Sale Application: (Facebook/Craigslist do a pretty good enough job i think...)
 
