@@ -4,6 +4,7 @@
         * [ACM](https://dl.acm.org/results.cfm?query=password+management)
     + Yes its a pretty common problem
     + Many ways to implement
+    + https://typingdna.com/pricing.html
 - Price aggregator : present the best price of a product available online
     + Literature : found some but not specific to the implementation ways of price aggregator, go more into consumer behaviour
     + Yes its a problem, but has already many solutions online
