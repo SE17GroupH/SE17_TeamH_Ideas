@@ -1,5 +1,36 @@
 Overview of the literature:
 
+#### GraphicalPassword.pdf
+
+### Graphical Password: Learning from the First Twelve Years
+
+Abstract:
+Several ways on implementations using graphics for passwords.
+
+#### SmartCardPassword.pdf
+
+### Advanced smart card based password authenticat protocol
+Abstract:
+A new efficient srong smart card authentication protocol for password authentication.
+
+#### Password.pdf
+
+### Using and managing multiple passwords: A week to a view
+Abstract:
+This paper investigate real password use in the context of daily life, presents the results of an empirical study where participants complete a password dairy over 7 days.
+
+#### passwordManagerCompare.pdf
+
+### Compare Password Management Software Toward Usable and Secure Enterprise Authentication
+Abstract:
+A paper comparing current password management software: 1Password, LastPass, KeePass, Dashlane by different metrics.
+
+#### PasswordStrategy.pdf
+
+### Designing Password Policies for Strength and Usability
+Abstract:
+Examine 15 password strategy, two online study with more than 20,000 participants.
+
 
 #### A Password Manager that Doesn't Remember Passwords
 Abstract:  
