@@ -1,5 +1,5 @@
 #Ideas so far
-- Managing Passwords
+- Managing Passwords/User Authentication ( Called dibs on this one. Sorry :( )
     - user defined password
     - password generated from url and username
     - easy to remember passphrases
