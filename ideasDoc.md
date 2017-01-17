@@ -1,4 +1,4 @@
-- Password Management
+- Password Management/User Authentication ( We call dibs on this one. Sorry :(  )
     + Literature : Lot of literature found, many different ideas. But papers are not specific to the domain/conferences of software engineering; don't know if that's a problem.
         * [Google scholar](https://scholar.google.com/scholar?q=password+management)
         * [ACM](https://dl.acm.org/results.cfm?query=password+management)
