@@ -12,7 +12,7 @@
 
 ### Gaits as Authentication
 
-Don't think there's any, we might have to do the analysis on out own
+Don't think there's any, we might have to do the analysis on our own
 
 ###Type Pattern as Authentication
 
