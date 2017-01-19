@@ -1,5 +1,11 @@
 Overview of the literature:
 
+
+#### Biometric authentication on a mobile device: a study of user effort, error and task disruption
+Abstract:
+Discusses effectiveness of 3 authentication methods: voice, face and gesture on mobile devices.We can use the evaluation criteria from this paper.
+
+
 ### GraphicalPassword.pdf
 
 #### Graphical Password: Learning from the First Twelve Years
