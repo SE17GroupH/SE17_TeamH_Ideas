@@ -1,0 +1,21 @@
+<% provide(:title, "Home") %>
+<!DOCTYPE html>
+<html>
+  <head>
+    <title><%= yield(:title) %> | User Login Experiment for 2017 CSC 510</title>
+  </head>
+  <body>
+    <div class="center jumbotron">
+      <h1>User Login Experiment for 2017 CSC 510</h1>
+      <h2>
+        This is the home page for the
+        <a href="https://github.com/SE17GroupH">Group H</a>
+        User Login Experiment application.
+      </h2>
+      <%= link_to "Sign up now!", '#', class: "btn btn-lg btn-primary" %>
+    </div>
+
+<%= link_to image_tag("software.png", alt: "Group H logo"),
+            'https://github.com/SE17GroupH' %>
+  </body>
+</html>
