@@ -1,4 +1,5 @@
 class UsersController < ApplicationController
+
   def show
   	@user = User.find(params[:id])
   	# debugger
@@ -11,9 +12,9 @@ class UsersController < ApplicationController
   def create
     @user = User.new(user_params)
     if @user.save
-    	flash[:success] = "Welcome to the User Login Experiment!"
-    	redirect_to @user
-      # Handle a successful save.
+      log_in @user
+      flash[:success] = "Welcome to the User Login Experiment!"
+      redirect_to @user
     else
       render 'new'
     end
