@@ -1,10 +1,13 @@
 <% provide(:title, 'Sign up') %>
 <h1>Sign up</h1>
 
+
+
 <div class="row">
   <div class="col-md-6 col-md-offset-3">
     <%= form_for(@user, url: signup_path) do |f| %>
       <%= render 'shared/error_messages' %>
+
 
       <%= f.label :username %>
       <%= f.text_field :username, class: 'form-control' %>
@@ -12,11 +15,18 @@
       <%= f.label :email %>
       <%= f.email_field :email, class: 'form-control' %>
 
+      Minimum password length is 6
+
       <%= f.label :password %>
       <%= f.password_field :password, class: 'form-control' %>
 
-      <%= f.label :password_confirmation, "Confirmation" %>
+
+      <%= f.label :password_confirmation, "Password Confirmation" %>
       <%= f.password_field :password_confirmation, class: 'form-control' %>
+
+      Please try not to use remember password for this experiment.
+
+      We will NOT see or use your password.
 
       <%= f.submit "Create my account", class: "btn btn-primary" %>
     <% end %>
